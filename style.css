@@ -77,10 +77,13 @@ a:hover {
 
 #article-title-tamil {
 	font-family: 'Vijaya';
+	font-size: 1.8em;
+	font-weight: bold;
 }
 
 #article-content-tamil {
 	font-family: 'Vijaya';
+	font-size: 1.25em;
 }
 
 #DP {
