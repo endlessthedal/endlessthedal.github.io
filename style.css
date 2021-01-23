@@ -64,13 +64,8 @@ a:hover {
 }
 
 #article-title {
-	
-}
-
-#article-main {
-	margin-left: 20%;
-	margin-right: 20%;
-	float: center;
+	font-size: 1.8em;
+	font-weight: bold;
 }
 
 #article-content {
