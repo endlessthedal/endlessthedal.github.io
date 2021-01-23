@@ -4,8 +4,11 @@
   - Under Construction
 
 ### Works to Do
-- Layouts - Header, Sideleft, Home and About Pages
-- Post-template and Posts
-- Excerpts to add in Home Page
-- Categories of Posts on Sideleft
-- Comments Section - Enabling
+- Header Page
+- About Page
+- Post Template Page
+- Excerpts Page
+- Posts folder and Posts
+- Side-left Page
+- Categories pages
+- Comment Section - Opensource - Staticman
