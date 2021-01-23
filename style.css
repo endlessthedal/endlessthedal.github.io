@@ -67,6 +67,9 @@ a:hover {
 	font-size: 1.8em;
 	font-weight: bold;
 }
+#article-details {
+	text-align: right;
+}
 
 #article-content {
 	font-size: 1.25em;
