@@ -68,7 +68,9 @@ a:hover {
 }
 
 #article-content {
-	
+	font-size:1.25em;
+	text-align:justify;
+	line-height:1.5;
 }
 
 #article-title-tamil {
@@ -77,4 +79,8 @@ a:hover {
 
 #article-content-tamil {
 	
+}
+
+#DP {
+	height:20%;
 }
