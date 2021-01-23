@@ -4,11 +4,11 @@
   - Under Construction
 
 ### Works to Do
-- Header Page
-- About Page
-- Post Template Page
-- Excerpts Page
-- Posts folder and Posts
+- Header Page (Over)
+- About Page (Over)
+- Post Template Page (Over)
+- Excerpts Page (4/32)
+- Posts folder and Posts (Over and 4/32)
 - Side-left Page
 - Categories pages
 - Comment Section - Opensource - Staticman
