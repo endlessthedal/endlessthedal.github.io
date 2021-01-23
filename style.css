@@ -7,7 +7,7 @@
 #logo {
 	font-size: 5em;
 	padding-bottom: 0;
-	margin-bottom: 0;
+	margin-bottom: 0;	
 	text-align: center;
 }
 
@@ -56,5 +56,3 @@ a:visited {
 a:hover {
 	color:#931311;
 }
-
-
