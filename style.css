@@ -110,3 +110,10 @@ p {
 	line-height: 1.5;
 	padding:5px;
 }
+
+#side-left {
+	float:left;
+	margin:0;
+	padding:0;
+	border-right: 1px solid;
+}
