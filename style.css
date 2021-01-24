@@ -115,5 +115,10 @@ p {
 	float:left;
 	margin:0;
 	padding:0;
-	border-right: 1px solid;
+}
+
+#head {
+	font-weight: bold;
+	font-size: 1.2em;
+	text-align: center;
 }
