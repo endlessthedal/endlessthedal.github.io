@@ -6,8 +6,8 @@
 - [x] Header Page
 - [x] About Page
 - [x] Post Template Page (Over)
-- [ ] Excerpts Page (6/31)
-- [ ] Posts folder 
+- [ ] Excerpts Page (11/31)
+- [x] Posts folder
 - [ ] Posts (11/31)
 - [ ] Side-left Page
 - [ ] Categories pages
@@ -16,7 +16,6 @@
   - Kavidhaigal
   - Journeys
   - Random Thoughts
-  - Politics
   - Sirukadhai
 - [ ] Comment Section - Opensource - Staticman
 - [ ] Automated Notification of new post mails to Subscribers
