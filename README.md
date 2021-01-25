@@ -6,9 +6,9 @@
 - [x] Header Page
 - [x] About Page
 - [x] Post Template Page (Over)
-- [ ] Excerpts Page (11/31)
+- [ ] Excerpts Page (15/31)
 - [x] Posts folder
-- [ ] Posts (11/31)
+- [ ] Posts (15/31)
 - [ ] Side-left Page
 - [ ] Categories pages
   - English Posts
