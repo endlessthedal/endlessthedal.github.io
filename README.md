@@ -5,17 +5,17 @@
 ### Works to Do
 - [x] Header Page
 - [x] About Page
-- [x] Post Template Page (Over)
-- [ ] Excerpts Page (15/31)
+- [x] Post Template Page
+- [x] Excerpts Page
 - [x] Posts folder
-- [ ] Posts (15/31)
-- [ ] Side-left Page
-- [ ] Categories pages
+- [x] Posts
+- [x] Side-left Page
+- [x] Categories pages
   - English Posts
   - Tamil Posts
   - Kavidhaigal
   - Journeys
   - Random Thoughts
   - Sirukadhai
-- [ ] Comment Section - Opensource - Staticman
-- [ ] Automated Notification of new post mails to Subscribers
+- [ ] Comment Section - Opensource - Staticman - Indulge Page for Contacting.
+- [ ] Automated Notification of new post mails to Subscribers - Input Box to get subscriber email ID
