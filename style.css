@@ -1,7 +1,7 @@
 #header {
 	text-align: center;
 	align-content: center;
-	background-color: #123456;
+	background-color: #008080;
 }
 
 
@@ -116,7 +116,6 @@ p {
 	float:left;
 	margin:0;
 	padding:2px;
-	background-color: #123456;
 }
 
 #side-right {
