@@ -1,8 +1,3 @@
-body{
-	position: relative;
-	background: white;
-}
-
 #header {
 	text-align: center;
 	align-content: center;
@@ -10,58 +5,33 @@ body{
 }
 
 #logo {
-	margin-left: 0.2em;
 	font-size: 5em;
 	padding-bottom: 0;
 	margin-bottom: 0;	
-	text-align: left;
-	display: flex;
-	position: absolute;
+	text-align: center;
 }
 
 #title {
-	position: absolute;
-	margin-left: 0.3em;
 	font-size: 2.8em;
 	padding-top: 0;
-	padding-left: 1.5em;
-	margin-top: 0.6em;
-	text-align: left;
+	margin-top: 0;
+	text-align: center;
 	margin-bottom: 10;
-	display: flex;
 }
 
 #caption {
 	text-align: center;
 	margin-bottom: 15;
-	display: none;
 }
 
-.title{
-	align-content: left;
-}
-
-
-#nav {
-	display: flex;
-	position: relative;
-	text-align: right;
-	justify-content: right;
-	align-content: right;
-}
 
 #tab {
-	position: relative;
-	margin:0;
-	margin-left: 1em;
-	margin-right: 1em;
-	padding: 1;
-	width: 13%;
-	font-size: 1.5em;
-}
-
-#excerpts{
-	display: none;
+	margin: 0;
+	margin-left: 2em;
+	margin-right: 2em;
+	padding: 10;
+	width: 30%;
+	font-family: monospace;
 }
 
 a{
@@ -139,7 +109,6 @@ p {
 	float:left;
 	margin:0;
 	padding:2px;
-	display: none;
 }
 
 #side-right {
