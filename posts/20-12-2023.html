@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title> Post - Letter to you! </title>
+		<link rel="stylesheet" href="..\style.css">
+		<script type = "text/javascript" src="..\scripts\jquery.js"></script>
+
+		<script type = "text/javascript">
+			$(function(){
+				$("#header").load("header.html"); 
+			});
+		</script>
+		<script type = "text/javascript">
+			$(function(){
+				$("#side-left").load("side-left.html"); 
+			});
+		</script>
+		<script type = "text/javascript">
+			$(function(){
+				$("#side-right").load("side-right.html");
+			});
+		</script>
+		<script type = "text/javascript">
+			$(function(){
+				$("#footer").load("footer.html");
+			});
+		</script>
+	</head>
+	<body>
+		<div id="header"></div>
+		<div id="side-left"></div>
+		<div id="side-right"></div>
+		<div id = "article-main">
+			<div id = "article-title">
+				Letter to you!
+			</div>
+			<div id = "article-details">
+				20th of December, 2023
+			</div>
+			<div id = "article-content">
+                <p>
+                   My therapist asked me to write a letter to you and express all that I am feeling.  
+                </p>
+			</div>
+		</div>
+		<div id="footer"></div>
+	</body>
+</html>
+
+
+
