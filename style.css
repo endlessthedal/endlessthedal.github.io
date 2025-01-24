@@ -20,7 +20,7 @@
 }
 
 #caption {
-	font-family: 'MontserratAlternates-Thin';
+	font-family: 'MontserratAlternates-SemiBold';
 	text-align: center;
 	margin-bottom: 15;
 }
@@ -59,7 +59,7 @@ a:hover {
 }
 
 #article-title {
-	font-family: 'Montserrat';
+	font-family: 'MontserratAlternates-SemiBold';
 	font-size: 1.8em;
 	font-weight: bold;
 }
