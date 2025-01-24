@@ -64,10 +64,12 @@ a:hover {
 	font-weight: bold;
 }
 #article-details {
+	font-family: "MontserratAlternates-Regular";
 	text-align: right;
 }
 
 #article-content {
+	font-family: "MontserratAlternates-Light";
 	font-size: 1.25em;
 }
 
@@ -93,6 +95,7 @@ a:hover {
 }
 
 #quote {
+	font-family: "MontserratAlternates-Italic";
 	text-align:center;
 	font-size:1.25em;
 	padding-top: 1em;
