@@ -20,6 +20,7 @@
 }
 
 #caption {
+	font-family: 'Montserrat';
 	text-align: center;
 	margin-bottom: 15;
 }
@@ -58,6 +59,7 @@ a:hover {
 }
 
 #article-title {
+	font-family: 'Montserrat';
 	font-size: 1.8em;
 	font-weight: bold;
 }
